@@ -14,7 +14,7 @@ Vehicle Parking Management System is a project to demonstrate the managing of Ve
 7.Run the script http://localhost/Vehicle-parking-management-System-project/Vehicle-parking-management-System-project/vpms/ (frontend)
 ```
 
-## Screenshots
+## UI WorkFlow
 
 Login Page
 
